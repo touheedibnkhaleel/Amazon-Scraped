@@ -18,4 +18,4 @@ requests
 
 BeautifulSoup
 
-pandas (for saving data, optional)
+pandas
